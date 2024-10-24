@@ -34,7 +34,7 @@ You can install all dependencies listed in the `requirements.txt` file.
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-repo/django-auth-api.git
+    git clone https://github.com/antishman/django-auth-api.git
     cd django-auth-api
     ```
 
